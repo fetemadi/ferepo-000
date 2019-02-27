@@ -1,4 +1,4 @@
 ferepo-00
 =========
 
-test repo
+20190227 - revisit the learning repo.
